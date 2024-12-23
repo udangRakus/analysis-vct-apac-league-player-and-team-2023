@@ -1,0 +1,16 @@
+RND = Rounds Played
+R = Rating
+ACS = Average Combat Score
+K:D = Kill : Death
+KAST = Kill, Assist, Trade, Survive
+ADR = Average Damage per Round
+KPR = Kills per Round
+APR = Assist per Round
+FKPR = First Kill per Round
+FDPR = First Death per Round
+HS% = Headshot
+CL% = Clutch Success 
+CL(won/Played)
+KMAX = Maximum Kills in a Single Map
+FK = First Kill 
+FD First Death
